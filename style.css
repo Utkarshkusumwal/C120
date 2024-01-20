@@ -1,0 +1,57 @@
+#camera,
+#result {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
+body {
+    background-color: bisque;
+    padding: 20px;
+}
+
+.heading {
+    letter-spacing: 10px;
+    font-family: cursive;
+}
+
+#warning {
+    margin-top: 25px;
+    font-size: large;
+    font-family: cursive;
+    font-weight: 900;
+}
+
+p {
+    font-weight: 900;
+    font-family: cursive;
+    letter-spacing: 2px;
+}
+
+.emojis {
+    background-color: rgb(82, 160, 228);
+    border-radius: 25px;
+    padding: 10px;
+    border: solid black 2px;
+    letter-spacing: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-size: larger;
+    font-weight: 900;
+}
+
+label {
+    background-color: rgb(255, 255, 255);
+    color: red;
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 20px;
+}
+
+button {
+    width: 75%;
+    border-radius: 20px;
+    font-weight: 900;
+    color: white;
+    height: 30px;
+}
